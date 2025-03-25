@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server for interacting with Aptos documentation and creating full-stack Aptos blockchain applications.
 
+<a href="https://glama.ai/mcp/servers/@Tlazypanda/aptos-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Tlazypanda/aptos-mcp-server/badge" alt="Aptos Server MCP server" />
+</a>
+
 ## Features
 
 - 🔍 Browse and search Aptos documentation
