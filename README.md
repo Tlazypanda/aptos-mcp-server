@@ -1,5 +1,7 @@
 # Aptos MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@Tlazypanda/aptos-mcp-server)](https://smithery.ai/server/@Tlazypanda/aptos-mcp-server)
+
 A Model Context Protocol (MCP) server for interacting with Aptos documentation and creating full-stack Aptos blockchain applications.
 
 ## Features
@@ -11,6 +13,14 @@ A Model Context Protocol (MCP) server for interacting with Aptos documentation a
 - 📜 Generate TypeScript ABI interfaces for Move contracts
 
 ## Installation
+
+### Installing via Smithery
+
+To install Aptos MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@Tlazypanda/aptos-mcp-server):
+
+```bash
+npx -y @smithery/cli install @Tlazypanda/aptos-mcp-server --client claude
+```
 
 ### Prerequisites
 
